@@ -1,2 +1,2 @@
-# daryagah
+# LINQ Exercise
 LINQ Exercise
